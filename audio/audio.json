@@ -1,0 +1,110 @@
+{
+ "click": {
+  "files": [
+   "click.wav"
+  ],
+  "volume": 0.45
+ },
+ "pop": {
+  "files": [
+   "pop.wav"
+  ],
+  "volume": 0.5
+ },
+ "whoosh": {
+  "files": [
+   "whoosh.wav"
+  ],
+  "volume": 0.42
+ },
+ "undo": {
+  "files": [
+   "undo.wav"
+  ],
+  "volume": 0.5
+ },
+ "land": {
+  "files": [
+   "land.wav"
+  ],
+  "volume": 0.62
+ },
+ "drop": {
+  "files": [
+   "drop.wav"
+  ],
+  "volume": 0.45
+ },
+ "bonk": {
+  "files": [
+   "bonk.wav"
+  ],
+  "volume": 0.55
+ },
+ "hint": {
+  "files": [
+   "hint.wav"
+  ],
+  "volume": 0.5
+ },
+ "chime": {
+  "files": [
+   "chime.wav"
+  ],
+  "volume": 0.6
+ },
+ "reveal": {
+  "files": [
+   "reveal.wav"
+  ],
+  "volume": 0.55
+ },
+ "star": {
+  "files": [
+   "star.wav"
+  ],
+  "volume": 0.6
+ },
+ "peep": {
+  "files": [
+   "peep_1.wav",
+   "peep_2.wav"
+  ],
+  "volume": 0.5
+ },
+ "cluck": {
+  "files": [
+   "cluck_1.wav",
+   "cluck_2.wav",
+   "cluck_3.wav"
+  ],
+  "volume": 0.8
+ },
+ "rooster": {
+  "files": [
+   "rooster.wav"
+  ],
+  "volume": 0.7
+ },
+ "fanfare": {
+  "files": [
+   "fanfare.mp3"
+  ],
+  "volume": 0.7
+ },
+ "finale": {
+  "files": [
+   "finale.mp3"
+  ],
+  "volume": 0.7
+ },
+ "music": {
+  "files": [
+   "music_farm.mp3"
+  ],
+  "volume": 0.55,
+  "loop": 68.571429,
+  "pre": 1.0,
+  "post": 1.0
+ }
+}
